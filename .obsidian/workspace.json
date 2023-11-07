@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Notes/Everybody Wants to Be My Enemy.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Notes/Everybody Wants to Be My Enemy.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Notes/Everybody Wants to Be My Enemy.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Notes/Everybody Wants to Be My Enemy.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -161,7 +161,7 @@
   },
   "active": "c30c83d647b17ddc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Music Notes/Everybody Wants to Be My Enemy.md"
+    "Music Notes/Everybody Wants to Be My Enemy.md",
+    "Untitled.md"
   ]
 }
