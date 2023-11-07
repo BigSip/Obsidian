@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Notes/Incomplete Rhymes and Lines.md",
+                "file": "Music Notes/Everybody Wants to Be My Enemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Notes/Incomplete Rhymes and Lines.md",
+                "file": "Music Notes/Everybody Wants to Be My Enemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Notes/Incomplete Rhymes and Lines.md",
+                "file": "Music Notes/Everybody Wants to Be My Enemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Notes/Incomplete Rhymes and Lines.md"
+                "file": "Music Notes/Everybody Wants to Be My Enemy.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c03c0ca6cc781308",
   "lastOpenFiles": [
-    "Untitled.md",
     "Music Notes/Incomplete Rhymes and Lines.md",
-    "Music Notes/Everybody Wants to Be My Enemy.md"
+    "Music Notes/Everybody Wants to Be My Enemy.md",
+    "Untitled.md"
   ]
 }
