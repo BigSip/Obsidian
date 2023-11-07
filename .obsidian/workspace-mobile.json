@@ -11,8 +11,12 @@
             "id": "db46548720a2bad7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Music Notes/Everybody Wants to Be My Enemy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incomplete Rhymes and Lines.md",
+                "file": "Music Notes/Incomplete Rhymes and Lines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +84,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "a9037e0db31939a1",
@@ -93,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Incomplete Rhymes and Lines.md",
+            "file": "Music Notes/Everybody Wants to Be My Enemy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Incomplete Rhymes and Lines.md",
+            "file": "Music Notes/Everybody Wants to Be My Enemy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Incomplete Rhymes and Lines.md"
+            "file": "Music Notes/Everybody Wants to Be My Enemy.md"
           }
         }
       }
@@ -139,11 +143,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7055141067d8c32",
+  "active": "db46548720a2bad7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Music Notes/Incomplete Rhymes and Lines.md",
     "Music Notes/Everybody Wants to Be My Enemy.md",
-    "Music Notes",
-    "Incomplete Rhymes and Lines.md"
+    "Untitled.md",
+    "Music Notes"
   ]
 }
