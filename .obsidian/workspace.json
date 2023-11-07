@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7933122bcd7e57ee",
+  "active": "eafb6510f6f1bb33",
   "lastOpenFiles": [
     "Untitled.md",
     "Music Notes/Everybody Wants to Be My Enemy.md"
