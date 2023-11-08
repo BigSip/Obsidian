@@ -15,4 +15,4 @@ Everybody listen up it's Mr. Yesterday
 The women, the children, the motherfuckin Earth
 Doesn't even matter, you're another fuckin serf
 You think you've got a chance, but who owns your home turf?
-He owns all from the mountains, down to the surf
+He owns all from the mountains, down to the surf.
