@@ -11,3 +11,4 @@ Engine failure
 Submit tow to insurance
 - Coverage to $150
 - Bill for $32
+- Can submit through app with pictures 
