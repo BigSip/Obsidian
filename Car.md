@@ -7,3 +7,7 @@ Engine failure
 * Should be covered by recall
 	* Bulletin number: 21V727000
 	* Marked incomplete by NHTSA
+
+Submit tow to insurance
+- Coverage to $150
+- Bill for $32
