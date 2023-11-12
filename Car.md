@@ -4,4 +4,5 @@ Being serviced at
 
 Engine failure
 * Not covered by insurance
-* Should be covered by 
+* Should be covered by recall
+* 
