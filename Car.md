@@ -16,7 +16,7 @@ Submit tow to insurance
 My records are merged with Mom's at Lightfoot Hyundai
 	They're retarded
 	Talk to manager about records
-	Confirm they *chose* not to service engine despite open recall
+	Confirm they ***chose*** not to service engine despite open recall
 		Recall posted to NHTSA September 17, 2021
 		Service was in 2022, confirm date with manager
 
