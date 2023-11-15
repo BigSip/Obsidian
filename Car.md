@@ -17,4 +17,5 @@ My records are merged with Mom's at Lightfoot Hyundai
 	* They're retarded
 
 Service claims I may be liable for damage since recall was not done
-* But if
+* But if it's a recall shouldn't it be gratis?
+* If my records are merged with mom's, could this work to my advantage?
