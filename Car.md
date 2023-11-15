@@ -12,3 +12,7 @@ Submit tow to insurance
 - Coverage to $150
 - Bill for $32
 - Can submit through app with pictures 
+
+* My records are merged with Mom's at Lightfoot Hyundai
+	* They're retarded
+* 
