@@ -14,7 +14,7 @@ Submit tow to insurance
 - Can submit through app with pictures 
 
 My records are merged with Mom's at Lightfoot Hyundai
-	* They're retarded
+- They're retarded
 
 Service claims I may be liable for damage since recall was not done
 	* But if it's a recall shouldn't it be gratis?
