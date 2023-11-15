@@ -17,7 +17,8 @@ My records are merged with Mom's at Lightfoot Hyundai
 	They're retarded
 	Talk to manager about records
 	Confirm they *chose* not to service engine despite open recall
-	
+		Recall posted to NHTSA September 17, 2021
+		Service was in 2022
 
 Service claims I may be liable for damage since recall was not done
 	But if it's a recall shouldn't it be gratis?
