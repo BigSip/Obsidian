@@ -16,7 +16,8 @@ Submit tow to insurance
 My records are merged with Mom's at Lightfoot Hyundai
 	They're retarded
 	Talk to manager about records
-	Confirm they *chose* not to service engine
+	Confirm they *chose* not to service engine despite open recall
+	
 
 Service claims I may be liable for damage since recall was not done
 	But if it's a recall shouldn't it be gratis?
