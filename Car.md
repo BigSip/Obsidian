@@ -13,6 +13,8 @@ Submit tow to insurance
 - Bill for $32
 - Can submit through app with pictures 
 
-* My records are merged with Mom's at Lightfoot Hyundai
+My records are merged with Mom's at Lightfoot Hyundai
 	* They're retarded
-* 
+
+Service claims I may be liable for damage since recall was not done
+* But if
