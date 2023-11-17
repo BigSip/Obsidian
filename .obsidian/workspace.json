@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a261f47749d6bed",
+        "id": "9dcf0ccc59275af7",
         "type": "tabs",
         "children": [
           {
-            "id": "1d16911b0cc86787",
+            "id": "d858a951b297fca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,14 +63,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "d16f2e0049f718f6",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
               "state": {}
             }
           }
@@ -157,17 +149,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1d16911b0cc86787",
+  "active": "d858a951b297fca6",
   "lastOpenFiles": [
+    "Music Notes/Yesterday.md",
+    "Music Notes/Everybody Wants to Be My Enemy.md",
+    "Music Notes/Play around with Realsong.mp3.md",
     "Music Notes/Play With Your Hair.md",
     "Car.md",
-    "Music Notes/Play around with Realsong.mp3.md",
     "Obsidian.md",
     "Music Notes/Music Notes.md",
     "Spaces/Home",
     "Spaces",
-    "Music Notes/Everybody Wants to Be My Enemy.md",
-    "Music Notes/Yesterday.md",
     "Music Notes/Luminous Beings.md",
     "Music Notes/Incomplete Rhymes and Lines.md"
   ]
