@@ -31,4 +31,5 @@ Service claims I may be liable for damage since recall was not done
 	- (703) 408-0666
 - ~~has not answered any calls or initiated contact since car has been dropped off~~
 - Punctured engine by strut, exactly what recall stated 
-- Recall not covered, called neglec
+- Recall not covered, called neglect
+- may be covered if I can prove 
