@@ -27,4 +27,6 @@ Service claims I may be liable for damage since recall was not done
 
 11/20
 - Service advisor is Rashad
-- has not answered any calls or initiated contact since car has been dropped off
+- ~~has not answered any calls or initiated contact since car has been dropped off~~
+- Punctured engine by strut, exactly what recall stated 
+- 
