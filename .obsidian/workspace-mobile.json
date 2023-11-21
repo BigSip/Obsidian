@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "f431158c75224c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Car.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f7055141067d8c32",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Car.md",
+            "file": "Music Notes/Everybody Wants to Be My Enemy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Car.md",
+            "file": "Music Notes/Everybody Wants to Be My Enemy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Car.md"
+            "file": "Music Notes/Everybody Wants to Be My Enemy.md"
           }
         }
       }
@@ -157,8 +144,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f431158c75224c82",
+  "active": "db46548720a2bad7",
   "lastOpenFiles": [
+    "Car/Questions.md",
+    "Car.md",
+    "/Car/Questions.md",
+    "Car/Car.md",
+    "/Car/Car.md",
+    "Car",
+    "/Car",
     "realsong.mp3",
     "Music Notes/Play around with Realsong.mp3.md",
     "Local Drinks.md",
@@ -170,7 +164,6 @@
     "/Music Notes/Music Notes.md",
     "/Car.md",
     "Music Notes/Everybody Wants to Be My Enemy.md",
-    "Car.md",
     "Music Notes/Yesterday.md",
     "Music Notes/Play With Your Hair.md",
     "Music Notes/Luminous Beings.md",
