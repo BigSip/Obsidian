@@ -148,6 +148,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -158,6 +159,13 @@
   },
   "active": "f431158c75224c82",
   "lastOpenFiles": [
+    "realsong.mp3",
+    "Music Notes/Play around with Realsong.mp3.md",
+    "Local Drinks.md",
+    "/realsong.mp3",
+    "/Music Notes/Play around with Realsong.mp3.md",
+    "/Music Notes/Incomplete Rhymes and Lines.md",
+    "/Local Drinks.md",
     "Music Notes/Music Notes.md",
     "/Music Notes/Music Notes.md",
     "/Car.md",

@@ -24,3 +24,12 @@ My records are merged with Mom's at Lightfoot Hyundai
 Service claims I may be liable for damage since recall was not done
 	But if it's a recall shouldn't it be gratis?
 	If my records are merged with mom's, could this work to my advantage?
+
+11/20
+- Service advisor is Rashad
+	- Rashad.Cail@koons.com
+	- (703) 408-0666
+- ~~has not answered any calls or initiated contact since car has been dropped off~~
+- Punctured engine by strut, exactly what recall stated 
+- Recall not covered, called neglect
+- may be covered if I can prove Lightfoot chose not to perform recall
