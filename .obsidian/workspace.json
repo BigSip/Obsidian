@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "Car/Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "Car/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions.md",
+                "file": "Car/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md"
+                "file": "Car/Questions.md"
               }
             }
           }
@@ -164,7 +164,7 @@
   "lastOpenFiles": [
     "Car",
     "Car/Car.md",
-    "Questions.md",
+    "Car/Questions.md",
     "Music Notes/Play around with Realsong.mp3.md",
     "Music Notes/Music Notes.md",
     "conflict-files-obsidian-git.md",
