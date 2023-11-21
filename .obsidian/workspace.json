@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Notes/Music Notes.md",
+                "file": "Car.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Notes/Music Notes.md",
+                "file": "Car.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Notes/Music Notes.md",
+                "file": "Car.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Notes/Music Notes.md"
+                "file": "Car.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "c47fdcaa9f9604f5",
   "lastOpenFiles": [
+    "Music Notes/Play around with Realsong.mp3.md",
+    "Music Notes/Music Notes.md",
     "conflict-files-obsidian-git.md",
     "Car.md",
-    "Music Notes/Music Notes.md",
-    "Music Notes/Play around with Realsong.mp3.md",
     "Music Notes/Play With Your Hair.md",
     "Music Notes/Yesterday.md",
     "Local Drinks.md",
