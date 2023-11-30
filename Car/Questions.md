@@ -6,6 +6,8 @@
 	2. TRUNK LATCH RECORDED
 	3. 
 3. Services requested?
+	1. USUALLY DO ALL RECALLS AT ONCE
 4. Was engine service not performed?
+	5. TO KNOWLEDGE, NO
 5. Why not?
 6. Sign statement?
