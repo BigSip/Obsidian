@@ -10,4 +10,6 @@
 4. Was engine service not performed?
 	5. TO KNOWLEDGE, NO
 5. Why not?
+	1. TICKET WRITTEN UP FUCKED 6 WAYS FROM SUNDAY
+	2. WHAT HAS BEEN FILED IS UNDER TAMMY VIN
 6. Sign statement?
