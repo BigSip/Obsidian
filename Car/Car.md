@@ -33,3 +33,9 @@ Service claims I may be liable for damage since recall was not done
 - Punctured engine by strut, exactly what recall stated 
 - Recall not covered, called neglect
 - may be covered if I can prove Lightfoot chose not to perform recall
+
+11/30
+- Went to Lightfoot Hyundai
+- Spoke to service manager
+	- Kevin
+- Kevin saw how 
