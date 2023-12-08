@@ -1,3 +1,3 @@
 Do you ever just think about the future? Not just 50 or 100 years from now, but 200 or 300. Once mankind has been forced well into the stars. Of course you'll think of the space vessels and laser weapons. But what if something more interesting changed? What if we discovered something that forced us to change our whole view of the universe.
 
-Take, for instance, the total theoretical energy in the universe. What if we discovered the universe was just so much larger than our h
+Take, for instance, the total theoretical energy in the universe. What if we discovered the universe was just so much larger than our earthbound se
