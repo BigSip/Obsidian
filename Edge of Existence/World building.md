@@ -8,4 +8,4 @@ What lies at the end? Nothingness? Raw matter that is in a Schrödinger-like sup
 
 What if it's a border? One upon which all universes rest as one giant conglomerate of all that is, was, could be, would be, and even in some senses: isn't.
 
-What if someone made this border on purpose? Why?
+What if something made this border on purpose? Why? Who?
