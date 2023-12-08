@@ -4,8 +4,8 @@ Take, for instance, the total theoretical energy in the universe. What if we dis
 
 The universe is expanding. At the speed of light, in every direction. What truly lies at the end? You could never know, you can't travel faster than light. But is the speed of light a conveniently important constant on the cosmic scale? Or is it something more? A universal speed limit? One imposed on our understanding of reality?
 
-What lies at the end? Nothingness? Raw matter that is in a Schrödinger-like superposition between existing and not, what element it could become?
+What lies at the end? Nothingness? Raw matter that is in a Schrödinger-like superposition between existing and not, what element it could become? Or something more?
 
 What if it's a border? One upon which all universes rest as one giant conglomerate of all that is, was, could be, would be, and even in some senses: isn't.
 
-What if something made this border on purpose? Why? Who?
+What if something made this border on purpose? Why? Who? 
