@@ -10,4 +10,4 @@ What if it's a border? One upon which all universes rest as one giant conglomera
 
 What if something made this border on purpose? Why? Who? Is it a prison? Or a shield?
 
-What lies beyond the 
+What lies beyond the edge of our existence?
