@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Notes/Incomplete Rhymes and Lines.md",
+                "file": "Whale.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Notes/Incomplete Rhymes and Lines.md",
+                "file": "Whale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Notes/Incomplete Rhymes and Lines.md",
+                "file": "Whale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Notes/Incomplete Rhymes and Lines.md"
+                "file": "Whale.md"
               }
             }
           }
@@ -151,11 +151,11 @@
   },
   "active": "7d29ace3eb8e8daa",
   "lastOpenFiles": [
-    "Music Notes/Everybody Wants to Be My Enemy.md",
-    "Music Notes/Incomplete Rhymes and Lines.md",
-    "Edge of Existence/World building.md",
     "whale.png",
     "Whale.md",
+    "Music Notes/Incomplete Rhymes and Lines.md",
+    "Music Notes/Everybody Wants to Be My Enemy.md",
+    "Edge of Existence/World building.md",
     "Car/Car.md",
     "Edge of Existence",
     "Car/Questions.md",
