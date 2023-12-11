@@ -11,11 +11,9 @@
             "id": "7d29ace3eb8e8daa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Edge of Existence/World building.md",
-                "mode": "source",
-                "source": false
+                "file": "whale.png"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edge of Existence/World building.md",
+                "file": "whale.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edge of Existence/World building.md",
+                "file": "whale.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edge of Existence/World building.md"
+                "file": "whale.png"
               }
             }
           }
@@ -151,9 +149,9 @@
   },
   "active": "7d29ace3eb8e8daa",
   "lastOpenFiles": [
+    "Edge of Existence/World building.md",
     "Whale.md",
     "whale.png",
-    "Edge of Existence/World building.md",
     "Car/Car.md",
     "Edge of Existence",
     "Car/Questions.md",
