@@ -11,9 +11,11 @@
             "id": "7d29ace3eb8e8daa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "whale.png"
+                "file": "Music Notes/Incomplete Rhymes and Lines.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "whale.png",
+                "file": "Music Notes/Incomplete Rhymes and Lines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "whale.png",
+                "file": "Music Notes/Incomplete Rhymes and Lines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "whale.png"
+                "file": "Music Notes/Incomplete Rhymes and Lines.md"
               }
             }
           }
@@ -149,9 +151,11 @@
   },
   "active": "7d29ace3eb8e8daa",
   "lastOpenFiles": [
-    "Whale.md",
-    "whale.png",
+    "Music Notes/Everybody Wants to Be My Enemy.md",
+    "Music Notes/Incomplete Rhymes and Lines.md",
     "Edge of Existence/World building.md",
+    "whale.png",
+    "Whale.md",
     "Car/Car.md",
     "Edge of Existence",
     "Car/Questions.md",
@@ -161,14 +165,12 @@
     "realsong.mp3",
     "Music Notes/Play around with Realsong.mp3.md",
     "Music Notes/Yesterday.md",
-    "Music Notes/Everybody Wants to Be My Enemy.md",
     "Music Notes/Play With Your Hair.md",
     "Car.md",
     "Obsidian.md",
     "Music Notes/Music Notes.md",
     "Spaces/Home",
     "Spaces",
-    "Music Notes/Luminous Beings.md",
-    "Music Notes/Incomplete Rhymes and Lines.md"
+    "Music Notes/Luminous Beings.md"
   ]
 }
