@@ -11,11 +11,9 @@
             "id": "28ba10118738dce0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Pickle List.md",
-                "mode": "source",
-                "source": false
+                "file": "whale.png"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pickle List.md",
+                "file": "whale.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pickle List.md",
+                "file": "whale.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pickle List.md"
+                "file": "whale.png"
               }
             }
           }
@@ -151,17 +149,17 @@
   },
   "active": "28ba10118738dce0",
   "lastOpenFiles": [
-    "Music Notes/Play around with Realsong.mp3.md",
+    "Whale.md",
+    "whale.png",
+    "Music Notes/Yesterday.md",
     "Pickle List.md",
+    "Music Notes/Play around with Realsong.mp3.md",
     "Music Notes/Luminous Beings.md",
     "Music Notes/Play With Your Hair.md",
     "Music Notes/Incomplete Rhymes and Lines.md",
     "Music Notes/Everybody Wants to Be My Enemy.md",
-    "Music Notes/Yesterday.md",
     "Car/Questions.md",
     "Edge of Existence/World building.md",
-    "Whale.md",
-    "whale.png",
     "Car/Car.md",
     "Edge of Existence",
     "Equalizer APO.md",
