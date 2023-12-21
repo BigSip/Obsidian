@@ -12,7 +12,7 @@ Engine failure
 Submit tow to insurance
 	Coverage to $150
 	Bill for $32
-	Can submit through app with pictures
+	Can submit through app with pictures 
 
 My records are merged with Mom's at Lightfoot Hyundai
 	They're retarded
@@ -37,9 +37,6 @@ Service claims I may be liable for damage since recall was not done
 11/30
 - Went to Lightfoot Hyundai
 - Spoke to service manager
-	- Kevin Reichert
+	- Kevin
 - Service records absolutely destroyed
 - Promised to take care of service
-
-12/21
-* Case number: 225-201-56
