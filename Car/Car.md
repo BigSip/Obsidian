@@ -37,6 +37,6 @@ Service claims I may be liable for damage since recall was not done
 11/30
 - Went to Lightfoot Hyundai
 - Spoke to service manager
-	- Kevin
+	- Kevin Reichert
 - Service records absolutely destroyed
 - Promised to take care of service
