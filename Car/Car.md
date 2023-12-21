@@ -40,3 +40,6 @@ Service claims I may be liable for damage since recall was not done
 	- Kevin Reichert
 - Service records absolutely destroyed
 - Promised to take care of service
+
+12/21
+* Case number: 225-201-56
