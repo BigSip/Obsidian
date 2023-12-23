@@ -10,3 +10,4 @@ Kevin
 Mia
 Rose
 Kayla
+Lori
