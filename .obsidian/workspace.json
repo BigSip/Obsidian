@@ -11,9 +11,11 @@
             "id": "28ba10118738dce0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "whale.png"
+                "file": "Music Notes/Play around with Realsong.mp3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "whale.png",
+                "file": "Music Notes/Play around with Realsong.mp3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "whale.png",
+                "file": "Music Notes/Play around with Realsong.mp3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "whale.png"
+                "file": "Music Notes/Play around with Realsong.mp3.md"
               }
             }
           }
@@ -149,11 +151,11 @@
   },
   "active": "28ba10118738dce0",
   "lastOpenFiles": [
-    "Whale.md",
-    "whale.png",
     "Car/Car.md",
-    "Music Notes/Everybody Wants to Be My Enemy.md",
     "Car/Questions.md",
+    "whale.png",
+    "Whale.md",
+    "Music Notes/Everybody Wants to Be My Enemy.md",
     "Edge of Existence/World building.md",
     "Music Notes/Luminous Beings.md",
     "Music Notes/Yesterday.md",
