@@ -40,3 +40,8 @@ Service claims I may be liable for damage since recall was not done
 	- Kevin
 - Service records absolutely destroyed
 - Promised to take care of service
+
+1/15
+* Repairs approved by Hyundai corpa
+1/25
+* Finally got loaner car
