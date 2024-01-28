@@ -42,6 +42,8 @@ Service claims I may be liable for damage since recall was not done
 - Promised to take care of service
 
 1/15
-* Repairs approved by Hyundai corpa
+* Repairs approved by Hyundai corporate
+
 1/25
 * Finally got loaner car
+* 23 Santa Fe
